@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/*页面字体样式*/
+@font-face {
+  font-family: "Shijie";
+  src: url("font/汉仪正圆-45S.ttf");
+}
